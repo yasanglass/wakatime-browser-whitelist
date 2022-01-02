@@ -1,0 +1,16 @@
+github.com
+developer.android.com/
+calendar.google.com
+developers.google.com
+stackoverflow.com
+play.google.com
+console.firebase.google.com
+app.dbdesigner.net
+figma.com
+notion.so
+todoist.com
+onesignal.com
+medium.com
+cloudflare.com
+cafebazaar.ir
+digitalocean.com
