@@ -1,4 +1,4 @@
-# WakatTme Whitelist
+# WakaTime Whitelist
 My personal whitelist for [WakaTime browser extension](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi).
 
 ```
