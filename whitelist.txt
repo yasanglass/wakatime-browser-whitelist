@@ -1,5 +1,5 @@
 github.com
-developer.android.com/
+developer.android.com
 calendar.google.com
 developers.google.com
 stackoverflow.com
@@ -12,5 +12,5 @@ todoist.com
 onesignal.com
 medium.com
 cloudflare.com
-cafebazaar.ir
 digitalocean.com
+cafebazaar.ir
