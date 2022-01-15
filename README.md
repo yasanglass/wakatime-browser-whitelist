@@ -27,4 +27,5 @@ stackoverflow.com
 todoist.com
 jobinja.ir
 stackexchange.com
+fonts.google.com
 ```
