@@ -15,6 +15,8 @@ fonts.google.com
 freecodecamp.org
 github.com
 github.io
+gitlab.com
+gitlab.gnome.org
 jobinja.ir
 keep.google.com
 linkedin.com
