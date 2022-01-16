@@ -11,9 +11,11 @@ developer.android.com
 developers.google.com
 digitalocean.com
 figma.com
+fonts.google.com
 freecodecamp.org
 github.com
 github.io
+jobinja.ir
 keep.google.com
 linkedin.com
 livingmaples.com
@@ -23,9 +25,7 @@ notion.so
 onesignal.com
 play.google.com
 socialblade.com
+stackexchange.com
 stackoverflow.com
 todoist.com
-jobinja.ir
-stackexchange.com
-fonts.google.com
 ```
