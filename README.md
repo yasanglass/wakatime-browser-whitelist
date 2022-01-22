@@ -32,4 +32,5 @@ stackexchange.com
 stackoverflow.com
 todoist.com
 kotlinlang.org
+web.skype.com
 ```
