@@ -7,6 +7,7 @@ calendar.google.com
 cloudflare.com
 console.firebase.google.com
 dbdesigner.net
+devconnected.com
 developer.android.com
 developers.google.com
 digitalocean.com
