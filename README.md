@@ -11,6 +11,7 @@ devconnected.com
 developer.android.com
 developers.google.com
 digitalocean.com
+app.diagrams.net
 figma.com
 fonts.google.com
 freecodecamp.org
