@@ -27,6 +27,7 @@ meet.google.com
 medium.com
 notion.so
 onesignal.com
+slack.com
 play.google.com
 socialblade.com
 stackexchange.com
