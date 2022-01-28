@@ -36,4 +36,5 @@ stackoverflow.com
 todoist.com
 kotlinlang.org
 web.skype.com
+fedoramagazine.org
 ```
