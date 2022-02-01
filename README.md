@@ -9,6 +9,7 @@ console.firebase.google.com
 dbdesigner.net
 devconnected.com
 developer.android.com
+developers.facebook.com
 developers.google.com
 digitalocean.com
 app.diagrams.net
