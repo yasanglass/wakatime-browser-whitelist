@@ -2,6 +2,7 @@
 My personal whitelist for [WakaTime browser extension](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi).
 
 ```
+baeldung.com
 cafebazaar.ir
 calendar.google.com
 cloudflare.com
