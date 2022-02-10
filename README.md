@@ -6,6 +6,7 @@ baeldung.com
 cafebazaar.ir
 calendar.google.com
 cloudflare.com
+android-developers.googleblog.com
 console.firebase.google.com
 dbdesigner.net
 devconnected.com
