@@ -41,4 +41,6 @@ kotlinlang.org
 web.skype.com
 fedoramagazine.org
 issuetracker.google.com
+glassdoor.com
+relocate.me
 ```
