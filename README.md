@@ -22,7 +22,9 @@ github.com
 github.io
 gitlab.com
 gitlab.gnome.org
+gitrnd.dariarnd.ir
 jobinja.ir
+jirarnd.dariarnd.ir
 keep.google.com
 linkedin.com
 livingmaples.com
